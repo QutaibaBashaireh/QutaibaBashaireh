@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Cloud, and Infrastructure technology
 - 🌱 I’m currently learning DevOps latest technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qutaiba57@gmail.com
+- 📫 How to reach me qutaibah57@gmail.com
 
 <!---
 QutaibaBashaireh/QutaibaBashaireh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
